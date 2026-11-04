@@ -1,4 +1,4 @@
-# पौराणिक कथाएँ: नौ हिंदी Shorts
+# पौराणिक कथाएँ: हिंदी Shorts
 
 Nine vertical (9:16) Hindi mythology Shorts with everything needed to post them: the video, captions, two thumbnails, title options, description, tags, pinned comment, fact-check and script.
 
@@ -27,3 +27,27 @@ Nine vertical (9:16) Hindi mythology Shorts with everything needed to post them:
 - **Not yet reviewed by a person from the tradition,** and the narration and music were not listened to by the maker. Please watch before posting.
 - Captions are the narration text; the speech model's word timing was checked only automatically.
 - Made with [explainroo](https://github.com/vincentsch/explainroo) (the `myth-facts` template, Viraj F5 voice clone, Perchance pictures). No licence has been added, so all rights are reserved until you add one.
+
+<!-- RAMAYANA-README-START -->
+## रामायण: वाल्मीकि बनाम तुलसीदास (13 Shorts)
+
+Thirteen vertical (9:16) Hindi Shorts comparing the Valmiki Ramayana and the Ramcharitmanas. Each folder has the web-compressed video, Hindi captions (SRT/VTT), cover, title, script, `facts.md` and `metadata.json`. There are no thumbnails, descriptions or pinned comments for this series yet.
+
+**These were NOT fact-checked.** The scripts were used exactly as given; no claim was compared with the texts, and every `facts.md` says so. Have someone from the tradition watch them before posting. The narration is an AI voice clone (the reference recording is not in this repository) and the pictures are AI-generated artistic reconstructions.
+
+| # | Video | Length | Folder |
+|---|---|---|---|
+| 1 | [लक्ष्मण रेखा का असली सच](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-01-lakshman-rekha) | 54 s | [`videos/ramayana-01-lakshman-rekha/`](videos/ramayana-01-lakshman-rekha/) |
+| 2 | [अहिल्या पत्थर बनी थीं या अदृश्य थीं?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-02-ahilya) | 49 s | [`videos/ramayana-02-ahilya/`](videos/ramayana-02-ahilya/) |
+| 3 | [केवट ने भगवान राम के पैर क्यों धोए?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-03-kevat) | 56 s | [`videos/ramayana-03-kevat/`](videos/ramayana-03-kevat/) |
+| 4 | [शबरी के बेर और नवधा भक्ति का सच](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-04-shabari) | 64 s | [`videos/ramayana-04-shabari/`](videos/ramayana-04-shabari/) |
+| 5 | [क्या रावण ने असली सीता का हरण किया था?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-05-pratibimb-sita) | 63 s | [`videos/ramayana-05-pratibimb-sita/`](videos/ramayana-05-pratibimb-sita/) |
+| 6 | [क्या मंथरा को सरस्वती ने प्रभावित किया था?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-06-manthara) | 62 s | [`videos/ramayana-06-manthara/`](videos/ramayana-06-manthara/) |
+| 7 | [गर्भवती सीता को वन क्यों भेजा गया?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-07-sita-vanvas) | 59 s | [`videos/ramayana-07-sita-vanvas/`](videos/ramayana-07-sita-vanvas/) |
+| 8 | [शंबूक वध: एक ऐसी घटना जो दोनों रामायणों में नहीं है](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-08-shambuk) | 59 s | [`videos/ramayana-08-shambuk/`](videos/ramayana-08-shambuk/) |
+| 9 | [परशुराम और लक्ष्मण का गुस्सा](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-09-parashuram) | 61 s | [`videos/ramayana-09-parashuram/`](videos/ramayana-09-parashuram/) |
+| 10 | [रामायण की शुरुआत किसने सुनाई?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-10-shuruaat) | 55 s | [`videos/ramayana-10-shuruaat/`](videos/ramayana-10-shuruaat/) |
+| 11 | [वाल्मीकि के राम और तुलसीदास के राम: भगवान या आदर्श मनुष्य?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-11-ram-manushya-ya-bhagwan) | 62 s | [`videos/ramayana-11-ram-manushya-ya-bhagwan/`](videos/ramayana-11-ram-manushya-ya-bhagwan/) |
+| 12 | [दोनों रामायणों का अंत अलग क्यों है?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-uttarkand) | 61 s | [`videos/ramayana-uttarkand/`](videos/ramayana-uttarkand/) |
+| 13 | [भगवान राम ने बाली को छिपकर क्यों मारा?](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ramayana-13-bali-vadh) | 62 s | [`videos/ramayana-13-bali-vadh/`](videos/ramayana-13-bali-vadh/) |
+<!-- RAMAYANA-README-END -->
