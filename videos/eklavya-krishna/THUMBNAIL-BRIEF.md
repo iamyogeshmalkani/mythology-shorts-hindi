@@ -1,16 +1,16 @@
-# Thumbnail brief: एकलव्य: हरिवंश के अनुसार भगवान कृष्ण का चचेरा भाई
+# Thumbnail brief: Eklavya: Harivansh ke anusar Bhagwan Krishna ka chachera bhai
 
-शीर्षक 1 के साथ जोड़ी: थंबनेल में शीर्षक के शब्द नहीं दोहराए गए। चित्र वीडियो के वही पात्र (CAST) इस्तेमाल करते हैं।
+Sheershak 1 ke saath jodi: thumbnail mein sheershak ke shabd nahi dohraye gaye. Chitra video ke vahi patra (CAST) istemal karte hain.
 
-| | A (लीड) | B |
+| | A (lead) | B |
 |---|---|---|
-| फ़ाइल | `thumbnail-a.jpg` | `thumbnail-b.jpg` |
-| शब्द | **एक छुपा रिश्ता** | **अंगूठे से बड़ा रहस्य** |
-| दृश्य | They stand side by side, a golden thread of light between them, close medium shot | Close portrait holding out his right hand toward the viewer, a clay statue of a bearded teacher blurred behind him |
-| आकार | 1280 x 720, JPEG 2 MB से कम | वही |
+| File | `thumbnail-a.jpg` | `thumbnail-b.jpg` |
+| Shabd | **ek chhupa rishta** | **angoothe se bada rahasya** |
+| Drishya | They stand side by side, a golden thread of light between them, close medium shot | Close portrait holding out his right hand toward the viewer, a clay statue of a bearded teacher blurred behind him |
+| Aakar | 1280 x 720, JPEG 2 MB se kam | Vahi |
 
-नियम: ≤ 4 शब्द, शीर्षक से अलग शब्द, एक मुख्य बिंदु, 168 px पर पढ़ने योग्य (जाँचा गया: नीचे की पंक्ति देखें)। पेंटिंग 768 x 512 की हैं और ऊपर-स्केल हुई हैं, इसलिए पूरे आकार में थोड़ी नरम हैं।
-A को लीड रखें; अगर A आगे न निकले तो B पर जाएँ।
+Niyam: ≤ 4 shabd, sheershak se alag shabd, ek mukhya bindu, 168 px par padhne yogya (jancha gaya: neeche ki pankti dekhein). Painting 768 x 512 ki hain aur oopar-skel hui hain, isliye poore aakar mein thodi naram hain.
+A ko lead rakhein; agar A aage na nikle toh B par jayein.
 
-दोबारा बनाने का आदेश (प्रोजेक्ट फ़ोल्डर से):
-`node youtube/make-thumbnail.mjs --bg assets/thumb-a.jpg --line1 "एक छुपा" --line2 "रिश्ता" --out youtube/thumbnail-a --side bottom --size cover --pos "center top"`
+Dobara banane ka aadesh (project folder se):
+`node youtube/make-thumbnail.mjs --bg assets/thumb-a.jpg --line1 "ek chhupa" --line2 "rishta" --out youtube/thumbnail-a --side bottom --size cover --pos "center top"`

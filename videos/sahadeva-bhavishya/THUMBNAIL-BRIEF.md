@@ -1,16 +1,16 @@
-# Thumbnail brief: सहदेव: जिसे लोककथाओं में पूरा भविष्य पता था!
+# Thumbnail brief: Sahadev: jise lokkathaon mein poora bhavishya pata tha!
 
-शीर्षक 1 के साथ जोड़ी: थंबनेल में शीर्षक के शब्द नहीं दोहराए गए। चित्र वीडियो के वही पात्र (CAST) इस्तेमाल करते हैं।
+Sheershak 1 ke saath jodi: thumbnail mein sheershak ke shabd nahi dohraye gaye. Chitra video ke vahi patra (CAST) istemal karte hain.
 
-| | A (लीड) | B |
+| | A (lead) | B |
 |---|---|---|
-| फ़ाइल | `thumbnail-a.jpg` | `thumbnail-b.jpg` |
-| शब्द | **फिर भी चुप** | **बोलते ही मौत** |
-| दृश्य | Close portrait with a glowing vision of a battlefield in his eyes | He holds a finger to his lips, silent, a red battlefield sky behind him |
-| आकार | 1280 x 720, JPEG 2 MB से कम | वही |
+| File | `thumbnail-a.jpg` | `thumbnail-b.jpg` |
+| Shabd | **phir bhi chup** | **bolte hi maut** |
+| Drishya | Close portrait with a glowing vision of a battlefield in his eyes | He holds a finger to his lips, silent, a red battlefield sky behind him |
+| Aakar | 1280 x 720, JPEG 2 MB se kam | Vahi |
 
-नियम: ≤ 4 शब्द, शीर्षक से अलग शब्द, एक मुख्य बिंदु, 168 px पर पढ़ने योग्य (जाँचा गया: नीचे की पंक्ति देखें)। पेंटिंग 768 x 512 की हैं और ऊपर-स्केल हुई हैं, इसलिए पूरे आकार में थोड़ी नरम हैं।
-A को लीड रखें; अगर A आगे न निकले तो B पर जाएँ।
+Niyam: ≤ 4 shabd, sheershak se alag shabd, ek mukhya bindu, 168 px par padhne yogya (jancha gaya: neeche ki pankti dekhein). Painting 768 x 512 ki hain aur oopar-skel hui hain, isliye poore aakar mein thodi naram hain.
+A ko lead rakhein; agar A aage na nikle toh B par jayein.
 
-दोबारा बनाने का आदेश (प्रोजेक्ट फ़ोल्डर से):
-`node youtube/make-thumbnail.mjs --bg assets/thumb-a.jpg --line1 "फिर भी" --line2 "चुप" --out youtube/thumbnail-a --side bottom --size cover --pos "center top"`
+Dobara banane ka aadesh (project folder se):
+`node youtube/make-thumbnail.mjs --bg assets/thumb-a.jpg --line1 "phir bhi" --line2 "chup" --out youtube/thumbnail-a --side bottom --size cover --pos "center top"`

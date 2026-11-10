@@ -7,10 +7,10 @@ Nine vertical (9:16) Hindi mythology Shorts with everything needed to post them:
 | # | Video | Length | Folder |
 |---|---|---|---|
 | 1 | [Urmila: jisne Lakshman ki jagah 14 saal tak neend li](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#urmila-neend) | 71 s | [`videos/urmila-neend/`](videos/urmila-neend/) |
-| 2 | [एकलव्य: हरिवंश के अनुसार भगवान कृष्ण का चचेरा भाई](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#eklavya-krishna) | 71 s | [`videos/eklavya-krishna/`](videos/eklavya-krishna/) |
-| 3 | [केरल का मंदिर जहाँ दुर्योधन की पूजा होती है](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#duryodhana-malanada) | 69 s | [`videos/duryodhana-malanada/`](videos/duryodhana-malanada/) |
+| 2 | [Eklavya: Harivansh ke anusar Bhagwan Krishna ka chachera bhai](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#eklavya-krishna) | 72 s | [`videos/eklavya-krishna/`](videos/eklavya-krishna/) |
+| 3 | [Kerala ka mandir jahan Duryodhan ki puja hoti hai](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#duryodhana-malanada) | 69 s | [`videos/duryodhana-malanada/`](videos/duryodhana-malanada/) |
 | 4 | [कुंभकर्ण: एक शब्द की गलती और मिल गई छह महीने की नींद!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#kumbhakarna-vardan) | 79 s | [`videos/kumbhakarna-vardan/`](videos/kumbhakarna-vardan/) |
-| 5 | [सहदेव: जिसे लोककथाओं में पूरा भविष्य पता था!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#sahadeva-bhavishya) | 65 s | [`videos/sahadeva-bhavishya/`](videos/sahadeva-bhavishya/) |
+| 5 | [Sahadev: jise lokkathaon mein poora bhavishya pata tha!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#sahadeva-bhavishya) | 66 s | [`videos/sahadeva-bhavishya/`](videos/sahadeva-bhavishya/) |
 | 6 | [बर्बरीक: जिसके तीन तीर पूरी महाभारत का युद्ध खत्म कर सकते थे!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#barbarik-khatu-shyam) | 86 s | [`videos/barbarik-khatu-shyam/`](videos/barbarik-khatu-shyam/) |
 | 7 | [रावण: जिसने अपने ही शत्रु श्रीराम की पूजा करवाई!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ravan-purohit) | 75 s | [`videos/ravan-purohit/`](videos/ravan-purohit/) |
 | 8 | [यमराज और यमुना: भाई दूज के पीछे की कहानी](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#yamraj-yamuna) | 79 s | [`videos/yamraj-yamuna/`](videos/yamraj-yamuna/) |
@@ -18,7 +18,8 @@ Nine vertical (9:16) Hindi mythology Shorts with everything needed to post them:
 
 
 
-**Hinglish remakes:** urmila-neend was remade with Hinglish captions, hook, titles and descriptions (the narration is still Hindi; the Devanagari script is kept as `script-devanagari.md`).
+
+**Hinglish remakes:** urmila-neend, eklavya-krishna, duryodhana-malanada, sahadeva-bhavishya were remade with Hinglish captions, hook, titles and descriptions (the narration is still Hindi; the Devanagari script is kept as `script-devanagari.md`).
 
 ## What is in each folder
 

@@ -1,59 +1,59 @@
-# YouTube package: केरल का मंदिर जहाँ दुर्योधन की पूजा होती है
+# YouTube package: Kerala ka mandir jahan Duryodhan ki puja hoti hai
 
-एक वर्टिकल वीडियो (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
+Ek vertical video (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
 
-## 1. शीर्षक (पहले दो को Test & Compare में आज़माएँ)
+## 1. Sheershak (pahle do ko Test & Compare mein aazmaaye)
 
-| # | शीर्षक | अक्षर | कैसा |
+| # | Sheershak | Akshar | Kaisa |
 |---|---|---|---|
-| 1 | केरल का मंदिर जहाँ दुर्योधन की पूजा होती है | 43 | आपका शीर्षक (लीड) |
-| 2 | दुर्योधन का मंदिर: बिना मूर्ति, जहाँ चढ़ती है ताड़ी | 51 | विकल्प: परंपरा का नाम |
-| 3 | मलनाडा मंदिर: केरल में दुर्योधन की पूजा क्यों? | 46 | प्रश्न |
-| 4 | खलनायक या देवता? केरल का दुर्योधन मंदिर | 39 | खोज |
-| 5 | Malanada Temple Kerala: Where Duryodhana Is Worshipped | दुर्योधन | 65 | द्विभाषी खोज |
+| 1 | Kerala ka mandir jahan Duryodhan ki puja hoti hai | 43 | Aapka sheershak (lead) |
+| 2 | Duryodhan ka mandir: bina murti, jahan chadhti hai toddy | 51 | Vikalp: parampara ka naam |
+| 3 | Malanada mandir: Kerala mein Duryodhan ki puja kyun? | 46 | Prashn |
+| 4 | Khalnayak ya devta? Kerala ka Duryodhan mandir | 39 | Khoj |
+| 5 | Malanada Temple Kerala: Where Duryodhana Is Worshipped | Duryodhan | 65 | Dvibhashi khoj |
 
-आपका शीर्षक #1 है। जहाँ कथा किसी परंपरा की है, वीडियो, विवरण और पिन किया कमेंट उसका नाम बताते हैं; विकल्प 2 या 3 शीर्षक में भी बताते हैं।
+Aapka sheershak #1 hai. Jahan katha kisi parampara ki hai, video, vivaran aur pin kiya comment uska naam batate hain; vikalp 2 ya 3 sheershak mein bhi batate hain.
 
-## 2. थंबनेल
+## 2. Thumbnail
 
-`thumbnail-a.jpg` (लीड, "बिना मूर्ति का मंदिर") और `thumbnail-b.jpg` ("खलनायक या देवता?"), 1280 x 720, 2 MB से कम। देखें `THUMBNAIL-BRIEF.md`.
+`thumbnail-a.jpg` (lead, "bina murti ka mandir") aur `thumbnail-b.jpg` ("khalnayak ya devta?"), 1280 x 720, 2 MB se kam. Dekhein `THUMBNAIL-BRIEF.md`.
 
-## 3. विवरण
+## 3. Vivaran
 
-`description.txt` चिपकाएँ। पहले 150 अक्षर ("Show more" से पहले दिखते हैं):
+`description.txt` chipkayein. Pahle 150 akshar ("Show more" se pahle dikhte hain):
 ```
-केरल के कोल्लम में एक मंदिर है जहाँ महाभारत के दुर्योधन की पूजा होती है, और वहाँ कोई मूर्ति तक नहीं है।
+Kerala ke Kollam mein ek mandir hai jahan Mahabharat ke Duryodhan ki puja hoti hai, aur vahan koi murti tak nahi hai.
 ```
-(103 अक्षर)
+(103 akshar)
 
-आपका अपना तथ्य-नोट (वीडियो में नहीं बोला गया): यह एक वास्तविक मंदिर और स्थानीय मान्यता है।
+Aapka apna tathya-not (video mein nahi bola gaya): yeh ek vastavik mandir aur sthaniya manyta hai.
 
-## 4. टैग
+## 4. Tag
 
-दुर्योधन, Duryodhana, मलनाडा मंदिर, Malanada temple, Peruviruthy, पोरुवाझी, Kollam, केरल का मंदिर, महाभारत, Duryodhana temple Kerala, Indian temples, भारतीय पौराणिक कथा
+Duryodhan, Duryodhana, Malanada mandir, Malanada temple, Peruviruthy, Poruvazhi, Kollam, Kerala ka mandir, Mahabharat, Duryodhana temple Kerala, Indian temples, Bhartiya pauranik katha
 
-## 5. हैशटैग (पहले तीन शीर्षक के ऊपर दिखते हैं)
+## 5. Hashtag (pahle teen sheershak ke oopar dikhte hain)
 
-`#दुर्योधन #केरल #महाभारत #Shorts`
+`#Duryodhan #Kerala #Mahabharat #Shorts`
 
-## 6. पिन किया हुआ कमेंट (प्रकाशित करते ही)
-
-```
-एक ज़रूरी बात: यह एक वास्तविक मंदिर (पोरुवाझी पेरुविरुति मलनाडा मंदिर, कोल्लम) और वहाँ की स्थानीय मान्यता है। यह कथा महाभारत में नहीं है, और मान्यता के कुछ विवरण स्रोतों में अलग-अलग मिलते हैं। स्रोत विवरण में हैं।
-
-आपके हिसाब से दुर्योधन सिर्फ एक खलनायक था या उसकी कहानी का कोई दूसरा पक्ष भी था?
-```
-
-## 7. कम्युनिटी पोस्ट (अगले दिन, पोल)
+## 6. Pin kiya hua comment (prakashit karte hi)
 
 ```
-दुर्योधन के बारे में आपकी राय क्या है?
+Ek zaroori baat: yeh ek vastavik mandir (Poruvazhi Peruviruti Malanada mandir, Kollam) aur vahan ki sthaniya manyta hai. Yeh katha Mahabharat mein nahi hai, aur manyta ke kuch vivaran sroton mein alag-alag milte hain. Srot vivaran mein hain.
+
+Aapke hisab se Duryodhan sirf ek khalnayak tha ya uski kahani ka koi doosra paksh bhi tha?
 ```
-विकल्प: सिर्फ खलनायक / दूसरा पक्ष भी है / मंदिर की बात पहली बार सुनी / दोनों बातें सही
 
-## 8. अपलोड चेकलिस्ट
+## 7. Community post (agle din, poll)
 
-- ऑडियंस: बच्चों के लिए नहीं। भाषा: हिंदी।
-- **Altered or synthetic content:** आवाज़ AI क्लोन की है और चित्र AI के हैं। YouTube का सवाल आपको भरना है; क्लोन आवाज़ के कारण इसे चालू रखना सुरक्षित है। केवल वही आवाज़ क्लोन करें जिसका अधिकार आपके पास है।
-- कैप्शन: `../out/video.srt` हिंदी ट्रैक के रूप में अपलोड करें।
-- पोस्ट करने से पहले परंपरा से परिचित किसी व्यक्ति से एक बार देखवा लें।
+```
+Duryodhan ke bare mein aapki ray kya hai?
+```
+Vikalp: sirf khalnayak / doosra paksh bhi hai / mandir ki baat pahli bar suni / donon batein sahi
+
+## 8. Upload checklist
+
+- Audience: bachchon ke liye nahi. Bhasha: Hindi.
+- **Altered or synthetic content:** awaaz AI clone ki hai aur chitra AI ke hain. YouTube ka saval aapko bharna hai; clone awaaz ke karan ise chalu rakhna surakshit hai. Keval vahi awaaz clone karein jiska adhikar aapke pas hai.
+- Caption: `../out/video.srt` Hindi track ke roop mein upload karein.
+- Post karne se pahle parampara se parichit kisi vyakti se ek bar dekhva lein.

@@ -1,6 +1,27 @@
-# एकलव्य: हरिवंश के अनुसार भगवान कृष्ण का चचेरा भाई
+# Eklavya: Harivansh ke anusar Bhagwan Krishna ka chachera bhai
 
-> The user's script, word for word, with the edits listed in notes.md. Section labels, the "तथ्य" line and the source tags of the user's draft are not spoken.
+Narration is Hindi; this is the same text in Hinglish (as in the captions). The Devanagari text is in `script-devanagari.md`.
 
-## story {transition=cut hold=0.9}
-[#s1] [loud]जिस एकलव्य ने गुरु द्रोणाचार्य के लिए अपना अंगूठा काटकर दे दिया था,[/loud] [#s2] क्या आप जानते हैं कि हरिवंश के अनुसार वह भगवान कृष्ण का चचेरा भाई भी था? [#s3] महाभारत के आदिपर्व में एकलव्य को निषाद राज हिरण्यधनु का पुत्र बताया गया है। [#s4] लेकिन हरिवंश में उनकी जन्म-कथा का एक अलग रहस्य मिलता है। [#s5] इसके अनुसार, एकलव्य के वास्तविक पिता देवश्रवा थे, [#s6] जो भगवान कृष्ण के पिता वासुदेव के भाई थे। [#s7] यानी हरिवंश के अनुसार एकलव्य और श्रीकृष्ण आपस में चचेरे भाई थे। [#s8] लेकिन एकलव्य का पालन-पोषण निषाद समुदाय में हुआ [#s9] और इसी कारण उन्हें निषादों से जोड़ा गया। [#s10] बड़े होकर एकलव्य ने द्रोणाचार्य से धनुर्विद्या सीखनी चाही, [#s11] लेकिन उन्हें शिक्षा देने से मना कर दिया गया। [#s12] इसके बाद एकलव्य ने जंगल में द्रोणाचार्य की मूर्ति बनाई [#s13] और उसी को गुरु मानकर अभ्यास किया। [#s14] जब द्रोणाचार्य को उनकी प्रतिभा का पता चला, [#s15] तो उन्होंने गुरु दक्षिणा में उनका दाहिना अंगूठा मांग लिया। [#s16] और एकलव्य ने बिना किसी सवाल के अपना अंगूठा काटकर दे दिया। [#s17] सोचिए, एक तरफ गुरु दक्षिणा देने वाला एकलव्य [#s18] और दूसरी तरफ हरिवंश में उसका कृष्ण से पारिवारिक रिश्ता! [#s19] क्या आपने यह बात पहले सुनी थी?
+Jis Eklavya ne guru Dronacharya ke liye apna angootha katkar de diya tha, kya aap jante hain ki Harivansh ke anusar woh Bhagwan Krishna ka chachera bhai bhi tha?
+
+Mahabharat ke Adiparv mein Eklavya ko Nishad raj Hiranyadhanu ka putra bataya gaya hai.
+
+Lekin Harivansh mein unki janm-katha ka ek alag rahasya milta hai.
+
+Iske anusar, Eklavya ke vastvik pita Devashrava the, jo Bhagwan Krishna ke pita Vasudev ke bhai the.
+
+Yani Harivansh ke anusar Eklavya aur Shri Krishna aapas mein chachere bhai the.
+
+Lekin Eklavya ka palan-poshan Nishad samuday mein hua aur isi karan unhe Nishadon se joda gaya.
+
+Bade hokar Eklavya ne Dronacharya se dhanurvidya seekhni chahi, lekin unhe shiksha dene se mana kar diya gaya.
+
+Iske baad Eklavya ne jungle mein Dronacharya ki murti banai aur usi ko guru mankar abhyas kiya.
+
+Jab Dronacharya ko unki pratibha ka pata chala, toh unhone guru dakshina mein unka dahina angootha mang liya.
+
+Aur Eklavya ne bina kisi saval ke apna angootha katkar de diya.
+
+Sochiye, ek taraf guru dakshina dene wala Eklavya aur doosri taraf Harivansh mein uska Krishna se parivarik rishta!
+
+Kya aapne yeh baat pahle suni thi?

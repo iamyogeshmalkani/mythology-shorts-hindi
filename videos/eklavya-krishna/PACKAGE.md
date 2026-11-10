@@ -1,59 +1,59 @@
-# YouTube package: एकलव्य: हरिवंश के अनुसार भगवान कृष्ण का चचेरा भाई
+# YouTube package: Eklavya: Harivansh ke anusar Bhagwan Krishna ka chachera bhai
 
-एक वर्टिकल वीडियो (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
+Ek vertical video (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
 
-## 1. शीर्षक (पहले दो को Test & Compare में आज़माएँ)
+## 1. Sheershak (pahle do ko Test & Compare mein aazmaaye)
 
-| # | शीर्षक | अक्षर | कैसा |
+| # | Sheershak | Akshar | Kaisa |
 |---|---|---|---|
-| 1 | एकलव्य: हरिवंश के अनुसार भगवान कृष्ण का चचेरा भाई | 49 | लीड: शीर्षक में ही परंपरा का नाम |
-| 2 | एकलव्य: जो भगवान कृष्ण का अपना चचेरा भाई था | 43 | आपका मूल शीर्षक |
-| 3 | क्या एकलव्य कृष्ण का चचेरा भाई था? | 34 | प्रश्न |
-| 4 | एकलव्य और कृष्ण का छुपा रिश्ता: हरिवंश की कथा | 45 | खोज |
-| 5 | Ekalavya: Krishna's Cousin in the Harivamsa? | एकलव्य | 53 | द्विभाषी खोज |
+| 1 | Eklavya: Harivansh ke anusar Bhagwan Krishna ka chachera bhai | 49 | Lead: sheershak mein hi parampara ka naam |
+| 2 | Eklavya: jo Bhagwan Krishna ka apna chachera bhai tha | 43 | Aapka mool sheershak |
+| 3 | Kya Eklavya Krishna ka chachera bhai tha? | 34 | Prashn |
+| 4 | Eklavya aur Krishna ka chhupa rishta: Harivansh ki katha | 45 | Khoj |
+| 5 | Ekalavya: Krishna's Cousin in the Harivamsa? | Eklavya | 53 | Dvibhashi khoj |
 
-आपका मूल शीर्षक विकल्प 2 है। लीड में परंपरा का नाम जोड़ा गया है, क्योंकि मूल शीर्षक कथा को सीधे तथ्य की तरह कहता है। जहाँ कथा किसी परंपरा की है, वीडियो, विवरण और पिन किया कमेंट उसका नाम बताते हैं; विकल्प 2 या 3 शीर्षक में भी बताते हैं।
+Aapka mool sheershak vikalp 2 hai. Lead mein parampara ka naam joda gaya hai, kyonki mool sheershak katha ko seedhe tathya ki tarah kehta hai. Jahan katha kisi parampara ki hai, video, vivaran aur pin kiya comment uska naam batate hain; vikalp 2 ya 3 sheershak mein bhi batate hain.
 
-## 2. थंबनेल
+## 2. Thumbnail
 
-`thumbnail-a.jpg` (लीड, "एक छुपा रिश्ता") और `thumbnail-b.jpg` ("अंगूठे से बड़ा रहस्य"), 1280 x 720, 2 MB से कम। देखें `THUMBNAIL-BRIEF.md`.
+`thumbnail-a.jpg` (lead, "ek chhupa rishta") aur `thumbnail-b.jpg` ("angoothe se bada rahasya"), 1280 x 720, 2 MB se kam. Dekhein `THUMBNAIL-BRIEF.md`.
 
-## 3. विवरण
+## 3. Vivaran
 
-`description.txt` चिपकाएँ। पहले 150 अक्षर ("Show more" से पहले दिखते हैं):
+`description.txt` chipkayein. Pahle 150 akshar ("Show more" se pahle dikhte hain):
 ```
-महाभारत में एकलव्य हिरण्यधनु का पुत्र है, पर हरिवंश के अनुसार वह कृष्ण का चचेरा भाई भी था। जानिए यह रिश्ता क्या है।
+Mahabharat mein Eklavya Hiranyadhanu ka putra hai, par Harivansh ke anusar woh Krishna ka chachera bhai bhi tha. Janiye yeh rishta kya hai.
 ```
-(115 अक्षर)
+(115 akshar)
 
-आपका अपना तथ्य-नोट (वीडियो में नहीं बोला गया): कृष्ण का चचेरा भाई होने की बात हरिवंश की वंशावली पर आधारित है। महाभारत के आदिपर्व में उन्हें हिरण्यधनु का पुत्र बताया गया है।
+Aapka apna tathya-not (video mein nahi bola gaya): Krishna ka chachera bhai hone ki baat Harivansh ki vanshavli par aadharit hai. Mahabharat ke Adiparv mein unhe Hiranyadhanu ka putra bataya gaya hai.
 
-## 4. टैग
+## 4. Tag
 
-एकलव्य, Ekalavya, कृष्ण, Krishna, चचेरा भाई, हरिवंश, Harivamsa, द्रोणाचार्य, निषाद, महाभारत, Mahabharat untold story, Indian mythology, भारतीय पौराणिक कथा
+Eklavya, Ekalavya, Krishna, Krishna, chachera bhai, Harivansh, Harivamsa, Dronacharya, Nishad, Mahabharat, Mahabharat untold story, Indian mythology, Bhartiya pauranik katha
 
-## 5. हैशटैग (पहले तीन शीर्षक के ऊपर दिखते हैं)
+## 5. Hashtag (pahle teen sheershak ke oopar dikhte hain)
 
-`#एकलव्य #महाभारत #हरिवंश #Shorts`
+`#Eklavya #Mahabharat #Harivansh #Shorts`
 
-## 6. पिन किया हुआ कमेंट (प्रकाशित करते ही)
-
-```
-एक ज़रूरी बात: कृष्ण से चचेरे भाई का रिश्ता हरिवंश के अनुसार है। महाभारत के आदिपर्व में एकलव्य केवल निषादराज हिरण्यधनु का पुत्र है। अंगूठे वाली घटना आदिपर्व में है। स्रोत विवरण में हैं।
-
-क्या आपने यह बात पहले सुनी थी?
-```
-
-## 7. कम्युनिटी पोस्ट (अगले दिन, पोल)
+## 6. Pin kiya hua comment (prakashit karte hi)
 
 ```
-एकलव्य की कथा में आपको सबसे बड़ी बात क्या लगी?
+Ek zaroori baat: Krishna se chachere bhai ka rishta Harivansh ke anusar hai. Mahabharat ke Adiparv mein Eklavya keval Nishadraj Hiranyadhanu ka putra hai. Angoothe wali ghatna Adiparv mein hai. Srot vivaran mein hain.
+
+Kya aapne yeh baat pahle suni thi?
 ```
-विकल्प: गुरु दक्षिणा / मिट्टी की मूर्ति से सीखना / कृष्ण से रिश्ता / यह कथा पहली बार सुनी
 
-## 8. अपलोड चेकलिस्ट
+## 7. Community post (agle din, poll)
 
-- ऑडियंस: बच्चों के लिए नहीं। भाषा: हिंदी।
-- **Altered or synthetic content:** आवाज़ AI क्लोन की है और चित्र AI के हैं। YouTube का सवाल आपको भरना है; क्लोन आवाज़ के कारण इसे चालू रखना सुरक्षित है। केवल वही आवाज़ क्लोन करें जिसका अधिकार आपके पास है।
-- कैप्शन: `../out/video.srt` हिंदी ट्रैक के रूप में अपलोड करें।
-- पोस्ट करने से पहले परंपरा से परिचित किसी व्यक्ति से एक बार देखवा लें।
+```
+Eklavya ki katha mein aapko sabse badi baat kya lagi?
+```
+Vikalp: guru dakshina / mitti ki murti se seekhna / Krishna se rishta / yeh katha pahli bar suni
+
+## 8. Upload checklist
+
+- Audience: bachchon ke liye nahi. Bhasha: Hindi.
+- **Altered or synthetic content:** awaaz AI clone ki hai aur chitra AI ke hain. YouTube ka saval aapko bharna hai; clone awaaz ke karan ise chalu rakhna surakshit hai. Keval vahi awaaz clone karein jiska adhikar aapke pas hai.
+- Caption: `../out/video.srt` Hindi track ke roop mein upload karein.
+- Post karne se pahle parampara se parichit kisi vyakti se ek bar dekhva lein.

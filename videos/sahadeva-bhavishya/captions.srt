@@ -1,88 +1,97 @@
 1
 00:00:00,350 --> 00:00:03,670
-लोककथाओं के अनुसार महाभारत
-में एक ऐसा पांडव भी था,
+lokkathaon ke anusar Mahabharat
+mein ek aisa Pandav bhi tha,
 
 2
-00:00:03,670 --> 00:00:09,320
-जिसे पहले से पता था कि युद्ध में क्या
-होने वाला है, कौन मरेगा और किसकी जीत होगी।
+00:00:03,670 --> 00:00:06,610
+jise pahle se pata tha ki
+yuddh mein kya hone wala hai,
 
 3
-00:00:09,453 --> 00:00:11,543
-फिर भी उसने किसी को कुछ नहीं बताया!
+00:00:06,610 --> 00:00:09,320
+kaun marega aur kiski jeet hogi.
 
 4
-00:00:11,643 --> 00:00:12,918
-उसका नाम था सहदेव।
+00:00:09,453 --> 00:00:11,543
+phir bhi usne kisi ko kuch nahi bataya!
 
 5
-00:00:12,968 --> 00:00:17,948
-वे पांडवों में सबसे छोटे थे और अपनी
-बुद्धिमत्ता तथा ज्योतिष ज्ञान के लिए
+00:00:11,643 --> 00:00:12,918
+uska naam tha Sahadev.
 
 6
-00:00:17,948 --> 00:00:18,878
-प्रसिद्ध थे।
+00:00:12,968 --> 00:00:17,948
+we Pandavon mein sabse chhote the aur apni
+buddhimatta tatha jyotish gyaan ke liye
 
 7
-00:00:19,003 --> 00:00:24,241
-लोकप्रचलित कथा के अनुसार, सहदेव को
-भविष्य देखने की अद्भुत शक्ति प्राप्त थी।
+00:00:17,948 --> 00:00:18,878
+prasiddh the.
 
 8
-00:00:24,291 --> 00:00:29,711
-उन्हें पता था कि कुरुक्षेत्र का युद्ध होने
-वाला है और उसमें कितने विनाशकारी परिणाम
+00:00:19,003 --> 00:00:20,783
+lokaprachlit katha ke anusar,
 
 9
-00:00:29,711 --> 00:00:30,681
-सामने आएँगे।
+00:00:20,783 --> 00:00:24,241
+Sahadev ko bhavishya dekhne
+ki adbhut shakti prapt thi.
 
 10
-00:00:30,816 --> 00:00:33,606
-लेकिन उनके ज्ञान के साथ
-एक श्राप भी जुड़ा था।
+00:00:24,291 --> 00:00:29,271
+unhe pata tha ki Kurukshetra ka yuddh
+hone wala hai aur usmein kitne vinashkari
 
 11
-00:00:33,706 --> 00:00:39,086
-कहा जाता है कि अगर उन्होंने भविष्य की
-घटनाओं के बारे में किसी को स्वयं बता दिया,
+00:00:29,271 --> 00:00:30,681
+parinam samne aayenge.
 
 12
-00:00:39,086 --> 00:00:40,636
-तो उनका सिर फट जाएगा।
+00:00:30,816 --> 00:00:33,606
+lekin unke gyaan ke saath
+ek shraap bhi juda tha.
 
 13
-00:00:40,728 --> 00:00:44,773
-इसी वजह से, इस कथा के अनुसार,
-वे भविष्य जानते हुए भी चुप रहे।
+00:00:33,706 --> 00:00:38,406
+kaha jata hai ki agar unhone bhavishya ki
+ghatnaon ke bare mein kisi ko swayam bata
 
 14
-00:00:44,773 --> 00:00:48,663
-यहाँ तक कि उन्हें युद्ध के
-भयानक परिणामों का भी ज्ञान था,
+00:00:38,406 --> 00:00:40,636
+diya, toh unka sir phat jayega.
 
 15
-00:00:49,113 --> 00:00:52,785
-लेकिन कथा के अनुसार वे उन्हें
-रोकने के लिए कुछ नहीं कह पाए।
+00:00:40,728 --> 00:00:44,773
+isi vajah se, is katha ke anusar,
+we bhavishya jante hue bhi chup rahe.
 
 16
-00:00:52,835 --> 00:00:56,125
-कल्पना कीजिए,
-आपके पास भविष्य जानने की शक्ति हो,
+00:00:44,773 --> 00:00:48,663
+yahan tak ki unhe yuddh ke bhayanak
+parinamon ka bhi gyaan tha,
 
 17
-00:00:56,215 --> 00:00:58,765
-लेकिन आप किसी को चेतावनी भी न दे सकें!
+00:00:49,113 --> 00:00:52,785
+lekin katha ke anusar we unhe
+rokne ke liye kuch nahi kah paye.
 
 18
-00:00:58,823 --> 00:01:02,373
-क्या सहदेव की चुप्पी मजबूरी
-थी या उनकी सबसे बड़ी गलती?
+00:00:52,835 --> 00:00:56,125
+kalpna kijiye,
+aapke pas bhavishya janne ki shakti ho,
 
 19
+00:00:56,215 --> 00:00:58,765
+lekin aap kisi ko
+chetavni bhi na de sakein!
+
+20
+00:00:58,823 --> 00:01:02,373
+kya Sahadev ki chuppi majboori
+thi ya unki sabse badi galti?
+
+21
 00:01:02,465 --> 00:01:03,837
-कमेंट में हमें बताइए।
+comment mein hamein bataiye.
 

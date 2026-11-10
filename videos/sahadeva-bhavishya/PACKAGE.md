@@ -1,59 +1,59 @@
-# YouTube package: सहदेव: जिसे लोककथाओं में पूरा भविष्य पता था!
+# YouTube package: Sahadev: jise lokkathaon mein poora bhavishya pata tha!
 
-एक वर्टिकल वीडियो (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
+Ek vertical video (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
 
-## 1. शीर्षक (पहले दो को Test & Compare में आज़माएँ)
+## 1. Sheershak (pahle do ko Test & Compare mein aazmaaye)
 
-| # | शीर्षक | अक्षर | कैसा |
+| # | Sheershak | Akshar | Kaisa |
 |---|---|---|---|
-| 1 | सहदेव: जिसे लोककथाओं में पूरा भविष्य पता था! | 44 | लीड: शीर्षक में ही परंपरा का नाम |
-| 2 | सहदेव: भविष्य जानते थे, पर बोल क्यों नहीं सके? | 46 | आपका मूल शीर्षक |
-| 3 | सहदेव का श्राप: बोलते ही सिर फट जाता? | 37 | प्रश्न |
-| 4 | महाभारत की लोककथा: सहदेव की चुप्पी | 34 | खोज |
-| 5 | Sahadeva Knew the Future? Mahabharata Folk Tale | सहदेव | 55 | द्विभाषी खोज |
+| 1 | Sahadev: jise lokkathaon mein poora bhavishya pata tha! | 44 | Lead: sheershak mein hi parampara ka naam |
+| 2 | Sahadev: bhavishya jante the, par bol kyun nahi sake? | 46 | Aapka mool sheershak |
+| 3 | Sahadev ka shraap: bolte hi sir phat jata? | 37 | Prashn |
+| 4 | Mahabharat ki lokkatha: Sahadev ki chuppi | 34 | Khoj |
+| 5 | Sahadeva Knew the Future? Mahabharata Folk Tale | Sahadev | 55 | Dvibhashi khoj |
 
-आपका मूल शीर्षक विकल्प 2 है। लीड में परंपरा का नाम जोड़ा गया है, क्योंकि मूल शीर्षक कथा को सीधे तथ्य की तरह कहता है। जहाँ कथा किसी परंपरा की है, वीडियो, विवरण और पिन किया कमेंट उसका नाम बताते हैं; विकल्प 2 या 3 शीर्षक में भी बताते हैं।
+Aapka mool sheershak vikalp 2 hai. Lead mein parampara ka naam joda gaya hai, kyonki mool sheershak katha ko seedhe tathya ki tarah kehta hai. Jahan katha kisi parampara ki hai, video, vivaran aur pin kiya comment uska naam batate hain; vikalp 2 ya 3 sheershak mein bhi batate hain.
 
-## 2. थंबनेल
+## 2. Thumbnail
 
-`thumbnail-a.jpg` (लीड, "फिर भी चुप") और `thumbnail-b.jpg` ("बोलते ही मौत"), 1280 x 720, 2 MB से कम। देखें `THUMBNAIL-BRIEF.md`.
+`thumbnail-a.jpg` (lead, "phir bhi chup") aur `thumbnail-b.jpg` ("bolte hi maut"), 1280 x 720, 2 MB se kam. Dekhein `THUMBNAIL-BRIEF.md`.
 
-## 3. विवरण
+## 3. Vivaran
 
-`description.txt` चिपकाएँ। पहले 150 अक्षर ("Show more" से पहले दिखते हैं):
+`description.txt` chipkayein. Pahle 150 akshar ("Show more" se pahle dikhte hain):
 ```
-लोककथाओं के अनुसार, सहदेव को महाभारत का पूरा भविष्य पता था, पर एक श्राप के कारण वे किसी को कुछ बता नहीं सकते थे।
+Lokkathaon ke anusar, Sahadev ko Mahabharat ka poora bhavishya pata tha, par ek shraap ke karan ve kisi ko kuch bata nahi sakte the.
 ```
-(112 अक्षर)
+(112 akshar)
 
-आपका अपना तथ्य-नोट (वीडियो में नहीं बोला गया): सहदेव के भविष्यज्ञान और श्राप की यह कथा लोकप्रिय परंपरा में मिलती है। इसे महाभारत के सभी संस्करणों का एकसमान विवरण नहीं समझना चाहिए।
+Aapka apna tathya-not (video mein nahi bola gaya): Sahadev ke bhavishyajnan aur shraap ki yeh katha lokpriya parampara mein milti hai. Ise Mahabharat ke sabhi sanskarnon ka ekasman vivaran nahi samajhna chahiye.
 
-## 4. टैग
+## 4. Tag
 
-सहदेव, Sahadeva, पांडव, Pandava, महाभारत, Mahabharat, भविष्य, सहदेव का श्राप, लोककथा, Mahabharata folk tale, Indian mythology, भारतीय पौराणिक कथा
+Sahadev, Sahadeva, Pandav, Pandava, Mahabharat, Mahabharat, bhavishya, Sahadev ka shraap, lokkatha, Mahabharata folk tale, Indian mythology, Bhartiya pauranik katha
 
-## 5. हैशटैग (पहले तीन शीर्षक के ऊपर दिखते हैं)
+## 5. Hashtag (pahle teen sheershak ke oopar dikhte hain)
 
-`#सहदेव #महाभारत #पांडव #Shorts`
+`#Sahadev #Mahabharat #Pandav #Shorts`
 
-## 6. पिन किया हुआ कमेंट (प्रकाशित करते ही)
-
-```
-एक ज़रूरी बात: सहदेव के भविष्य-ज्ञान और सिर फटने के श्राप की कथा लोककथा है। व्यास के महाभारत में यह नहीं मिलती। क्षेत्रीय रूप आपस में अलग हैं (ओडिया सरला महाभारत में उन्हें पूछे जाने पर बताना पड़ता है)। स्रोत विवरण में हैं।
-
-क्या सहदेव की चुप्पी मजबूरी थी या उनकी सबसे बड़ी गलती? कमेंट में बताइए।
-```
-
-## 7. कम्युनिटी पोस्ट (अगले दिन, पोल)
+## 6. Pin kiya hua comment (prakashit karte hi)
 
 ```
-सहदेव की चुप्पी के बारे में आप क्या सोचते हैं?
+Ek zaroori baat: Sahadev ke bhavishya-gyaan aur sir phatne ke shraap ki katha lokkatha hai. Vyas ke Mahabharat mein yeh nahi milti. Kshetriya roop aapas mein alag hain (Odia Sarala Mahabharat mein unhe poochhe jane par batana padta hai). Srot vivaran mein hain.
+
+Kya Sahadev ki chuppi majboori thi ya unki sabse badi galti? Comment mein bataiye.
 ```
-विकल्प: मजबूरी थी / सबसे बड़ी गलती / श्राप की बात सही नहीं / यह कथा पहली बार सुनी
 
-## 8. अपलोड चेकलिस्ट
+## 7. Community post (agle din, poll)
 
-- ऑडियंस: बच्चों के लिए नहीं। भाषा: हिंदी।
-- **Altered or synthetic content:** आवाज़ AI क्लोन की है और चित्र AI के हैं। YouTube का सवाल आपको भरना है; क्लोन आवाज़ के कारण इसे चालू रखना सुरक्षित है। केवल वही आवाज़ क्लोन करें जिसका अधिकार आपके पास है।
-- कैप्शन: `../out/video.srt` हिंदी ट्रैक के रूप में अपलोड करें।
-- पोस्ट करने से पहले परंपरा से परिचित किसी व्यक्ति से एक बार देखवा लें।
+```
+Sahadev ki chuppi ke bare mein aap kya sochte hain?
+```
+Vikalp: majboori thi / sabse badi galti / shraap ki baat sahi nahi / yeh katha pahli bar suni
+
+## 8. Upload checklist
+
+- Audience: bachchon ke liye nahi. Bhasha: Hindi.
+- **Altered or synthetic content:** awaaz AI clone ki hai aur chitra AI ke hain. YouTube ka saval aapko bharna hai; clone awaaz ke karan ise chalu rakhna surakshit hai. Keval vahi awaaz clone karein jiska adhikar aapke pas hai.
+- Caption: `../out/video.srt` Hindi track ke roop mein upload karein.
+- Post karne se pahle parampara se parichit kisi vyakti se ek bar dekhva lein.

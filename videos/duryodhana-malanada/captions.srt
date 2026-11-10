@@ -1,91 +1,102 @@
 1
 00:00:00,350 --> 00:00:04,170
-महाभारत का वो खलनायक,
-जिसने पांडवों के खिलाफ युद्ध लड़ा था,
+Mahabharat ka woh khalnayak,
+jisne Pandavon ke khilaf yuddh lada tha,
 
 2
 00:00:04,170 --> 00:00:07,520
-केरल के एक गाँव में आज
-भी उनकी पूजा होती है!
+Kerala ke ek gaon mein aaj
+bhi unki puja hoti hai!
 
 3
 00:00:07,605 --> 00:00:10,015
-और इस मंदिर में उनकी मूर्ति तक नहीं है।
+aur is mandir mein unki
+murti tak nahi hai.
 
 4
 00:00:10,117 --> 00:00:13,587
-यह मंदिर केरल के कोल्लम जिले
-के पोरुवाझी में स्थित है।
+yeh mandir Kerala ke Kollam jile
+ke Poruvazhi mein sthit hai.
 
 5
 00:00:13,672 --> 00:00:15,362
-इसका नाम है मलनाडा मंदिर।
+iska naam hai Malanada mandir.
 
 6
 00:00:15,412 --> 00:00:17,522
-यह मंदिर दुर्योधन को समर्पित है।
+yeh mandir Duryodhan ko samarpit hai.
 
 7
-00:00:17,616 --> 00:00:22,896
-आप सोच रहे होंगे कि आखिर जिस दुर्योधन को
-महाभारत में अधर्म का प्रतीक माना जाता है,
+00:00:17,616 --> 00:00:21,636
+aap soch rahe honge ki aakhir jis
+Duryodhan ko Mahabharat mein adharm ka
 
 8
-00:00:22,896 --> 00:00:24,966
-उसकी पूजा क्यों होती है?
+00:00:21,636 --> 00:00:24,966
+prateek mana jata hai,
+uski puja kyun hoti hai?
 
 9
 00:00:25,081 --> 00:00:29,311
-स्थानीय परंपरा में दुर्योधन को
-एक अलग दृष्टिकोण से देखा जाता है।
+sthaneey parampra mein Duryodhan ko
+ek alag drishtikon se dekha jata hai.
 
 10
 00:00:29,407 --> 00:00:31,587
-मान्यता है कि जब पांडव वनवास में थे,
+manyta hai ki jab Pandav vanvaas mein the,
 
 11
-00:00:31,587 --> 00:00:37,067
-तब उनकी तलाश करते हुए दुर्योधन इस
-क्षेत्र में पहुँचे थे और यहाँ के लोगों से
+00:00:31,587 --> 00:00:36,547
+tab unki talash karte hue Duryodhan is
+kshetra mein pahunche the aur yahan ke
 
 12
-00:00:37,067 --> 00:00:38,377
-उनका संबंध बना।
+00:00:36,547 --> 00:00:38,377
+logon se unka sambandh bana.
 
 13
-00:00:38,472 --> 00:00:43,762
-इस मंदिर की सबसे अनोखी बात यह है कि यहाँ
-कोई पारंपरिक मूर्ति या गर्भगृह नहीं है।
+00:00:38,472 --> 00:00:43,092
+is mandir ki sabse anokhi baat yeh hai
+ki yahan koi paramprik murti ya garbhgrih
 
 14
-00:00:43,866 --> 00:00:47,736
-भक्त एक ऊँचे चबूतरे पर,
-मन से संकल्प करके पूजा करते हैं।
+00:00:43,092 --> 00:00:43,762
+nahi hai.
 
 15
-00:00:47,785 --> 00:00:49,655
-और सबसे हैरान करने वाली बात?
+00:00:43,866 --> 00:00:47,736
+bhakt ek oonche chabutre par,
+man se sankalp karke puja karte hain.
 
 16
-00:00:49,683 --> 00:00:52,603
-यहाँ दुर्योधन को ताड़ी यानी
-Toddy भी चढ़ाई जाती है,
+00:00:47,785 --> 00:00:49,655
+aur sabse hairan karne wali baat?
 
 17
-00:00:52,603 --> 00:00:55,593
-और कई भक्त दूसरी शराब भी चढ़ाते हैं।
+00:00:49,683 --> 00:00:52,603
+yahan Duryodhan ko toddy yani
+Toddy bhi chadhai jati hai,
 
 18
-00:00:55,658 --> 00:01:00,838
-यानी भारत में एक ऐसा मंदिर भी है जहाँ
-महाभारत के सबसे विवादित पात्रों में से एक
+00:00:52,603 --> 00:00:55,593
+aur kai bhakt doosri
+sharab bhi chadhate hain.
 
 19
-00:01:00,838 --> 00:01:01,908
-की पूजा होती है।
+00:00:55,658 --> 00:01:00,258
+yani Bharat mein ek aisa mandir bhi hai
+jahan Mahabharat ke sabse vivadit patron
 
 20
-00:01:01,995 --> 00:01:07,365
-आपके हिसाब से दुर्योधन सिर्फ एक खलनायक
-था या उसकी कहानी का कोई दूसरा पक्ष भी था?
+00:01:00,258 --> 00:01:01,908
+mein se ek ki puja hoti hai.
+
+21
+00:01:01,995 --> 00:01:06,855
+aapke hisab se Duryodhan sirf ek khalnayak
+tha ya uski kahani ka koi doosra paksh bhi
+
+22
+00:01:06,855 --> 00:01:07,365
+tha?
 

@@ -1,6 +1,29 @@
-# सहदेव: जिसे लोककथाओं में पूरा भविष्य पता था!
+# Sahadev: jise lokkathaon mein poora bhavishya pata tha!
 
-> The user's script, word for word, with the edits listed in notes.md. Section labels, the "तथ्य" line and the source tags of the user's draft are not spoken.
+Narration is Hindi; this is the same text in Hinglish (as in the captions). The Devanagari text is in `script-devanagari.md`.
 
-## story {transition=cut hold=0.9}
-[#s1] [loud]लोककथाओं के अनुसार महाभारत में एक ऐसा पांडव भी था,[/loud] जिसे पहले से पता था कि युद्ध में क्या होने वाला है, [#s2] कौन मरेगा और किसकी जीत होगी। [#s3] फिर भी उसने किसी को कुछ नहीं बताया! [#s4] उसका नाम था सहदेव। [#s5] वे पांडवों में सबसे छोटे थे और अपनी बुद्धिमत्ता तथा ज्योतिष ज्ञान के लिए प्रसिद्ध थे। [#s6] लोकप्रचलित कथा के अनुसार, सहदेव को भविष्य देखने की अद्भुत शक्ति प्राप्त थी। [#s7] उन्हें पता था कि कुरुक्षेत्र का युद्ध होने वाला है [#s8] और उसमें कितने विनाशकारी परिणाम सामने आएँगे। [#s9] लेकिन उनके ज्ञान के साथ एक श्राप भी जुड़ा था। [#s10] कहा जाता है कि अगर उन्होंने भविष्य की घटनाओं के बारे में किसी को स्वयं बता दिया, [#s11] तो उनका सिर फट जाएगा। [#s12] इसी वजह से, इस कथा के अनुसार, वे भविष्य जानते हुए भी चुप रहे। [#s13] यहाँ तक कि उन्हें युद्ध के भयानक परिणामों का भी ज्ञान था, [#s14] लेकिन कथा के अनुसार वे उन्हें रोकने के लिए कुछ नहीं कह पाए। [#s15] कल्पना कीजिए, आपके पास भविष्य जानने की शक्ति हो, लेकिन आप किसी को चेतावनी भी न दे सकें! [#s16] क्या सहदेव की चुप्पी मजबूरी थी या उनकी सबसे बड़ी गलती? [#s17] कमेंट में हमें बताइए।
+Lokkathaon ke anusar Mahabharat mein ek aisa Pandav bhi tha, jise pahle se pata tha ki yuddh mein kya hone wala hai, kaun marega aur kiski jeet hogi.
+
+Phir bhi usne kisi ko kuch nahi bataya!
+
+Uska naam tha Sahadev.
+
+We Pandavon mein sabse chhote the aur apni buddhimatta tatha jyotish gyaan ke liye prasiddh the.
+
+Lokaprachlit katha ke anusar, Sahadev ko bhavishya dekhne ki adbhut shakti prapt thi.
+
+Unhe pata tha ki Kurukshetra ka yuddh hone wala hai aur usmein kitne vinashkari parinam samne aayenge.
+
+Lekin unke gyaan ke saath ek shraap bhi juda tha.
+
+Kaha jata hai ki agar unhone bhavishya ki ghatnaon ke bare mein kisi ko swayam bata diya, toh unka sir phat jayega.
+
+Isi vajah se, is katha ke anusar, we bhavishya jante hue bhi chup rahe.
+
+Yahan tak ki unhe yuddh ke bhayanak parinamon ka bhi gyaan tha, lekin katha ke anusar we unhe rokne ke liye kuch nahi kah paye.
+
+Kalpna kijiye, aapke pas bhavishya janne ki shakti ho, lekin aap kisi ko chetavni bhi na de sakein!
+
+Kya Sahadev ki chuppi majboori thi ya unki sabse badi galti?
+
+Comment mein hamein bataiye.
