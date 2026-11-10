@@ -1,6 +1,29 @@
-# उर्मिला: जिसने लक्ष्मण की जगह 14 साल तक नींद ली
+# Urmila: jisne Lakshman ki jagah 14 saal tak neend li
 
-> The user's script, word for word, with the edits listed in notes.md. Section labels, the "तथ्य" line and the source tags of the user's draft are not spoken.
+Narration is Hindi; this is the same text in Hinglish (as in the captions). The Devanagari text is in `script-devanagari.md`.
 
-## story {transition=cut hold=0.9}
-[#s1] [loud]जब पूरा संसार भगवान राम के वनवास की कहानी जानता है,[/loud] [#s2] तब लोककथा के अनुसार एक ऐसी स्त्री भी थी जिसने अपने पति के लिए {14|चौदह} साल तक सोकर अपना त्याग दिया। [#s3] लेकिन उसकी कहानी शायद ही कोई जानता है। [#s4] ये कहानी है माता [loud]उर्मिला[/loud] की, [#s5] जो लक्ष्मण की पत्नी और माता सीता की बहन थीं। [#s6] जब लक्ष्मण भगवान राम और माता सीता के साथ वनवास जाने लगे, [#s7] तब उन्होंने तय किया कि वे {14|चौदह} साल तक अपने भाई और भाभी की रक्षा करेंगे [#s8] और बिल्कुल नहीं सोएँगे। [#s9] लेकिन एक समस्या थी। [#s10] बिना सोए कोई इंसान {14|चौदह} साल कैसे रह सकता था? [#s11] लोककथा के अनुसार, तभी निद्रा देवी लक्ष्मण के सामने प्रकट हुईं। [#s12] लक्ष्मण ने उनसे अनुरोध किया कि उनके हिस्से की नींद किसी और को दे दी जाए। [#s13] और उनकी पत्नी उर्मिला ने यह जिम्मेदारी स्वीकार कर ली। [#s14] कहते हैं कि उर्मिला {14|चौदह} वर्षों तक सोती रहीं, [#s15] ताकि लक्ष्मण बिना सोए भगवान राम की सेवा कर सकें। [#s16] कहा जाता है कि जब भगवान राम अयोध्या लौटे, तब उर्मिला की नींद पूरी हुई और वे जागीं। [#s17] एक तरफ लक्ष्मण का त्याग रामकथा में प्रसिद्ध हुआ, [#s18] तो दूसरी तरफ उर्मिला का त्याग पर्दे के पीछे रह गया। [#s19] आपके अनुसार, इस कहानी की असली नायिका कौन थीं, लक्ष्मण या उर्मिला?
+Jab poora sansar Bhagwan Ram ke vanvaas ki kahani janta hai, tab lokkatha ke anusar ek aisi stree bhi thi jisne apne pati ke liye 14 saal tak sokar apna tyaag diya.
+
+Lekin uski kahani shayad hi koi janta hai.
+
+Ye kahani hai mata Urmila ki, jo Lakshman ki patni aur mata Sita ki bahan thin.
+
+Jab Lakshman Bhagwan Ram aur mata Sita ke saath vanvaas jane lage, tab unhone tay kiya ki we 14 saal tak apne bhai aur bhabhi ki raksha karenge aur bilkul nahi soyenge.
+
+Lekin ek samasya thi.
+
+Bina soye koi insan 14 saal kaise rah sakta tha?
+
+Lokkatha ke anusar, tabhi Nidra devi Lakshman ke samne prakat huin.
+
+Lakshman ne unse anurodh kiya ki unke hisse ki neend kisi aur ko de di jaye.
+
+Aur unki patni Urmila ne yeh zimmedari sveekar kar li.
+
+Kahte hain ki Urmila 14 varshon tak soti rahin, taki Lakshman bina soye Bhagwan Ram ki seva kar sakein.
+
+Kaha jata hai ki jab Bhagwan Ram Ayodhya laute, tab Urmila ki neend poori hui aur we jagin.
+
+Ek taraf Lakshman ka tyaag Ramkatha mein prasiddh hua, toh doosri taraf Urmila ka tyaag parde ke peechhe rah gaya.
+
+Aapke anusar, is kahani ki asli nayika kaun thin, Lakshman ya Urmila?

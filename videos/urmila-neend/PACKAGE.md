@@ -1,59 +1,59 @@
-# YouTube package: उर्मिला: जिसने लक्ष्मण की जगह 14 साल तक नींद ली
+# YouTube package: Urmila: jisne Lakshman ki jagah 14 saal tak neend li
 
-एक वर्टिकल वीडियो (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
+Ek vertical video (9:16). Facts only from `../facts.md` (research report: `../facts-research.md`). Built with the rules of the `youtube-skills` bundle.
 
-## 1. शीर्षक (पहले दो को Test & Compare में आज़माएँ)
+## 1. Sheershak (pahle do ko Test & Compare mein aazmaaye)
 
-| # | शीर्षक | अक्षर | कैसा |
+| # | Sheershak | Akshar | Kaisa |
 |---|---|---|---|
-| 1 | उर्मिला: जिसने लक्ष्मण की जगह 14 साल तक नींद ली | 47 | आपका शीर्षक (लीड) |
-| 2 | लोककथा: जब उर्मिला लक्ष्मण के लिए 14 साल सोईं | 45 | विकल्प: परंपरा का नाम |
-| 3 | लक्ष्मण 14 साल जागे, तो उर्मिला ने क्या किया? | 45 | प्रश्न |
-| 4 | उर्मिला की नींद: रामायण की भूली हुई लोककथा | 42 | खोज |
-| 5 | Urmila's 14-Year Sleep: Ramayana Folk Story | उर्मिला | 53 | द्विभाषी खोज |
+| 1 | Urmila: jisne Lakshman ki jagah 14 saal tak neend li | 47 | Aapka sheershak (lead) |
+| 2 | Lokkatha: jab Urmila Lakshman ke liye 14 saal soyin | 45 | Vikalp: parampara ka naam |
+| 3 | Lakshman 14 saal jage, toh Urmila ne kya kiya? | 45 | Prashn |
+| 4 | Urmila ki neend: Ramayan ki bhooli hui lokkatha | 42 | Khoj |
+| 5 | Urmila's 14-Year Sleep: Ramayana Folk Story | Urmila | 53 | Dvibhashi khoj |
 
-आपका शीर्षक #1 है। जहाँ कथा किसी परंपरा की है, वीडियो, विवरण और पिन किया कमेंट उसका नाम बताते हैं; विकल्प 2 या 3 शीर्षक में भी बताते हैं।
+Aapka sheershak #1 hai. Jahan katha kisi parampara ki hai, video, vivaran aur pin kiya comment uska naam batate hain; vikalp 2 ya 3 sheershak mein bhi batate hain.
 
-## 2. थंबनेल
+## 2. Thumbnail
 
-`thumbnail-a.jpg` (लीड, "उसका त्याग") और `thumbnail-b.jpg` ("असली नायिका कौन?"), 1280 x 720, 2 MB से कम। देखें `THUMBNAIL-BRIEF.md`.
+`thumbnail-a.jpg` (lead, "uska tyaag") aur `thumbnail-b.jpg` ("asli nayika kaun?"), 1280 x 720, 2 MB se kam. Dekhein `THUMBNAIL-BRIEF.md`.
 
-## 3. विवरण
+## 3. Vivaran
 
-`description.txt` चिपकाएँ। पहले 150 अक्षर ("Show more" से पहले दिखते हैं):
+`description.txt` chipkayein. Pahle 150 akshar ("Show more" se pahle dikhte hain):
 ```
-लोककथा के अनुसार, जब लक्ष्मण ने चौदह साल न सोने का संकल्प लिया, तब उनकी पत्नी उर्मिला ने उनके हिस्से की नींद ले ली।
+Lokkatha ke anusar, jab Lakshman ne chaudah saal na sone ka sankalp liya, tab unki patni Urmila ne unke hisse ki neend le li.
 ```
-(115 अक्षर)
+(115 akshar)
 
-आपका अपना तथ्य-नोट (वीडियो में नहीं बोला गया): यह कथा लोकपरंपरा में प्रचलित है, वाल्मीकि रामायण में इसका वर्णन नहीं है।
+Aapka apna tathya-not (video mein nahi bola gaya): yeh katha lokparampara mein prachlit hai, Valmiki Ramayan mein iska varnan nahi hai.
 
-## 4. टैग
+## 4. Tag
 
-उर्मिला, Urmila, लक्ष्मण, Lakshmana, रामायण, Ramayan, उर्मिला की नींद, Urmila nidra, निद्रा देवी, रामायण की अनसुनी कहानी, Ramayana untold story, Indian mythology, भारतीय पौराणिक कथा
+Urmila, Urmila, Lakshman, Lakshmana, Ramayan, Ramayan, Urmila ki neend, Urmila nidra, Nidra devi, Ramayan ki ansuni kahani, Ramayana untold story, Indian mythology, Bhartiya pauranik katha
 
-## 5. हैशटैग (पहले तीन शीर्षक के ऊपर दिखते हैं)
+## 5. Hashtag (pahle teen sheershak ke oopar dikhte hain)
 
-`#उर्मिला #रामायण #लक्ष्मण #Shorts`
+`#Urmila #Ramayan #Lakshman #Shorts`
 
-## 6. पिन किया हुआ कमेंट (प्रकाशित करते ही)
-
-```
-एक ज़रूरी बात: उर्मिला की नींद की यह कथा लोककथा है, वाल्मीकि रामायण में इसका वर्णन नहीं है। उर्मिला का लक्ष्मण की पत्नी और सीता की बहन होना वाल्मीकि रामायण में है। स्रोत विवरण में दिए हैं।
-
-आपके अनुसार, इस कथा की असली नायिका कौन थीं? लक्ष्मण या उर्मिला?
-```
-
-## 7. कम्युनिटी पोस्ट (अगले दिन, पोल)
+## 6. Pin kiya hua comment (prakashit karte hi)
 
 ```
-इस कथा में आपको सबसे बड़ा त्याग किसका लगा?
+Ek zaroori baat: Urmila ki neend ki yeh katha lokkatha hai, Valmiki Ramayan mein iska varnan nahi hai. Urmila ka Lakshman ki patni aur Sita ki bahan hona Valmiki Ramayan mein hai. Srot vivaran mein diye hain.
+
+Aapke anusar, is katha ki asli nayika kaun thin? Lakshman ya Urmila?
 ```
-विकल्प: उर्मिला की नींद / लक्ष्मण का जागना / दोनों का / यह कथा पहली बार सुनी
 
-## 8. अपलोड चेकलिस्ट
+## 7. Community post (agle din, poll)
 
-- ऑडियंस: बच्चों के लिए नहीं। भाषा: हिंदी।
-- **Altered or synthetic content:** आवाज़ AI क्लोन की है और चित्र AI के हैं। YouTube का सवाल आपको भरना है; क्लोन आवाज़ के कारण इसे चालू रखना सुरक्षित है। केवल वही आवाज़ क्लोन करें जिसका अधिकार आपके पास है।
-- कैप्शन: `../out/video.srt` हिंदी ट्रैक के रूप में अपलोड करें।
-- पोस्ट करने से पहले परंपरा से परिचित किसी व्यक्ति से एक बार देखवा लें।
+```
+Is katha mein aapko sabse bada tyaag kiska laga?
+```
+Vikalp: Urmila ki neend / Lakshman ka jagna / donon ka / yeh katha pahli bar suni
+
+## 8. Upload checklist
+
+- Audience: bachchon ke liye nahi. Bhasha: Hindi.
+- **Altered or synthetic content:** awaaz AI clone ki hai aur chitra AI ke hain. YouTube ka saval aapko bharna hai; clone awaaz ke karan ise chalu rakhna surakshit hai. Keval vahi awaaz clone karein jiska adhikar aapke pas hai.
+- Caption: `../out/video.srt` Hindi track ke roop mein upload karein.
+- Post karne se pahle parampara se parichit kisi vyakti se ek bar dekhva lein.

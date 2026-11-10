@@ -6,7 +6,7 @@ Nine vertical (9:16) Hindi mythology Shorts with everything needed to post them:
 
 | # | Video | Length | Folder |
 |---|---|---|---|
-| 1 | [उर्मिला: जिसने लक्ष्मण की जगह 14 साल तक नींद ली](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#urmila-neend) | 71 s | [`videos/urmila-neend/`](videos/urmila-neend/) |
+| 1 | [Urmila: jisne Lakshman ki jagah 14 saal tak neend li](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#urmila-neend) | 71 s | [`videos/urmila-neend/`](videos/urmila-neend/) |
 | 2 | [एकलव्य: हरिवंश के अनुसार भगवान कृष्ण का चचेरा भाई](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#eklavya-krishna) | 71 s | [`videos/eklavya-krishna/`](videos/eklavya-krishna/) |
 | 3 | [केरल का मंदिर जहाँ दुर्योधन की पूजा होती है](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#duryodhana-malanada) | 69 s | [`videos/duryodhana-malanada/`](videos/duryodhana-malanada/) |
 | 4 | [कुंभकर्ण: एक शब्द की गलती और मिल गई छह महीने की नींद!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#kumbhakarna-vardan) | 79 s | [`videos/kumbhakarna-vardan/`](videos/kumbhakarna-vardan/) |
@@ -15,6 +15,10 @@ Nine vertical (9:16) Hindi mythology Shorts with everything needed to post them:
 | 7 | [रावण: जिसने अपने ही शत्रु श्रीराम की पूजा करवाई!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#ravan-purohit) | 75 s | [`videos/ravan-purohit/`](videos/ravan-purohit/) |
 | 8 | [यमराज और यमुना: भाई दूज के पीछे की कहानी](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#yamraj-yamuna) | 79 s | [`videos/yamraj-yamuna/`](videos/yamraj-yamuna/) |
 | 9 | [मकरध्वज: हनुमान जी का पुत्र, जिसने अपने ही पिता से युद्ध किया!](https://iamyogeshmalkani.github.io/mythology-shorts-hindi/#makardhwaj) | 76 s | [`videos/makardhwaj/`](videos/makardhwaj/) |
+
+
+
+**Hinglish remakes:** urmila-neend was remade with Hinglish captions, hook, titles and descriptions (the narration is still Hindi; the Devanagari script is kept as `script-devanagari.md`).
 
 ## What is in each folder
 
